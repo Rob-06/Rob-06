@@ -6,6 +6,6 @@
 
 ### Get in touch with me via:
 
-[<img alt="Telegram" width="48px" src="https://img.icons8.com/fluent/240/000000/telegram-app.png" />][telegram_link]
+[<img alt="Telegram" width="48px" src="https://telegram.org/img/t_logo.png" />][telegram_link]
 
 [telegram_link]: https://t.me/nessuno_di_interessante
