@@ -8,4 +8,4 @@
 
 [<img alt="Telegram" width="48px" src="https://telegram.org/img/t_logo.png" />][telegram_link]
 
-[telegram_link]: https://t.me/nessuno_di_interessante
+[telegram_link]: https://t.me/BriddaRobert
