@@ -6,6 +6,5 @@
 
 ### Get in touch with me via:
 
-[<img alt="Telegram" width="48px" src="https://telegram.org/img/t_logo.png" />][telegram_link]
-
-[telegram_link]: https://t.me/BriddaRobert
+[Telegram](https://t.me/BriddaRobert)
+[E-Mail](mailto:briddarobert@icloud.com)
