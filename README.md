@@ -7,4 +7,5 @@
 ### Get in touch with me via:
 
 [Telegram](https://t.me/BriddaRobert)
+
 [E-Mail](mailto:briddarobert@icloud.com)
